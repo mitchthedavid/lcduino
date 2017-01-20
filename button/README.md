@@ -2,7 +2,7 @@
 What good is a screen if you can't control anything on it? With this is mind, I wired a button into my lcduino case, and opted to create a 30-second timer.
 
 ##Setup
-You'll need to connect your lcd screen to your Arduino as shown in the main README. From there, you can connect a button fairly easily. Note that the button needs to connect to the same 5v as the screen, so you may need to get creative if you're not using a breaboard.
+You'll need to connect your lcd screen to your Arduino as shown in the main README. From there, you can connect a button fairly easily. Note that the button needs to connect to the same 5v as the screen, so you may need to get creative if you're not using a breadboard.
 
 ###Wiring Diagram
 ![official Arduino diagram](https://www.arduino.cc/en/uploads/Tutorial/button.png)
