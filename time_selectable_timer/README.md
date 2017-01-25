@@ -1,5 +1,5 @@
 # lcduino with a button
-To improve my timer, I added a potentiometer to
+To improve my timer, I added a potentiometer to the arduino to serve as a time-select knob.
 
 ##Setup
 You'll need to connect the potentiometer to your Arduino, but you may need to get creative with the wiring. How to connect and example code: https://www.arduino.cc/en/Tutorial/Potentiometer
