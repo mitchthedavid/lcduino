@@ -11,3 +11,4 @@ You'll need to connect your lcd screen to your Arduino as shown in the main READ
 From there, you're good to add the 'timer' sketch, which can be found in the 'button' folder, to your Arduino. Once the button is pressed, it counts down from 30, while changing the backlight color from blue to green, displays a message saying that the timer is done, then resets, allowing for the timer to be run again.
 
 In the future, I intend to figure out a way of adding more hardware controls so that different durations can be used.  
+^EDIT: I have! Check out the folders in the main repo.
