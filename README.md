@@ -13,4 +13,8 @@ You'll obviously need an Arduino board, the 18 pin LCD screen, a 3-pin potentiom
 ###Adafruit Wiring 
 ![Adafruit Wiring](https://github.com/mitchpehora/lcduino/blob/master/lcds___displays_rgblcdtest_t.jpg?raw=true)
 
-From there, you're good to add the hello_world_18lcd_rgb.ino sketch to your Arduino.
+From there, you're good to add the hello_world_18lcd_rgb.ino sketch located in the main folder to your Arduino.
+
+##Other Programs
+Each of the folders in the main repo represent a different program that I've written for the Arduino that takes advantage of
+the LCD Screen. Click on them to get more info.
